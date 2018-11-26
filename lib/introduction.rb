@@ -3,5 +3,5 @@ def introduction(code)
 end
 
 def 
-  puts 
+  puts "Hi my name is code and I am learning to program in Ember.js.\n"
 end 
